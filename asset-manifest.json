@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SYP_Mock/static/css/main.8ece7dad.chunk.css",
-    "main.js": "/SYP_Mock/static/js/main.0d1b4c6d.chunk.js",
-    "main.js.map": "/SYP_Mock/static/js/main.0d1b4c6d.chunk.js.map",
+    "main.js": "/SYP_Mock/static/js/main.c7948ee8.chunk.js",
+    "main.js.map": "/SYP_Mock/static/js/main.c7948ee8.chunk.js.map",
     "runtime-main.js": "/SYP_Mock/static/js/runtime-main.97ec6ad4.js",
     "runtime-main.js.map": "/SYP_Mock/static/js/runtime-main.97ec6ad4.js.map",
     "static/css/2.b5346a44.chunk.css": "/SYP_Mock/static/css/2.b5346a44.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.b5346a44.chunk.css",
     "static/js/2.a80612d7.chunk.js",
     "static/css/main.8ece7dad.chunk.css",
-    "static/js/main.0d1b4c6d.chunk.js"
+    "static/js/main.c7948ee8.chunk.js"
   ]
 }
