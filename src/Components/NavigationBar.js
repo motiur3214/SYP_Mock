@@ -6,7 +6,7 @@ import './NavigationBar.css'
 function NavigationBar() {
   return (
     <div className=' navbar__container'>
-      <ReactNav.Navbar className="shadow-none" activeClassName="underline" collapseOnSelect expand="lg" bg="none" variant="light">
+      <ReactNav.Navbar className="shadow-none"  collapseOnSelect expand="lg" bg="none" variant="light">
 
   <ReactNav.Navbar.Toggle  aria-controls="responsive-navbar-nav" />
   <ReactNav.Navbar.Collapse id="responsive-navbar-nav">
