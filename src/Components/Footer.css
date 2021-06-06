@@ -1,0 +1,53 @@
+.footer__container {
+  margin: auto;
+}
+
+.custom__style {
+  border-bottom: 3px double rgb(114, 114, 114);
+}
+.color__change {
+  color: rgb(160, 157, 157);
+  font-size: 13px;
+}
+.search__container {
+  display: flex;
+  flex: 1;
+  width: 100%;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+@media only screen and (max-width: 700px) {
+    .search__container {
+        flex-direction: column;
+    }
+  }
+.signup__text{
+
+display: flex;
+flex:.20;
+align-content: flex-start;
+
+}
+.input__div {
+  border: 1px solid white;
+  padding: 0px;
+  display: flex;
+  flex: 0.3;
+  justify-content: center;
+  align-content: center;
+  flex-direction: row;
+  margin-bottom: 2vh;
+}
+
+#outlined-basic::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: rgb(255, 255, 255);
+  opacity: 0.5; /* Firefox */
+  font-size: 14px;
+  padding-left: 10px;
+  font-family: "Times New Roman";
+}
+/* #outlined-basic{
+    height: 40%;
+} */
